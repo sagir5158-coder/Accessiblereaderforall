@@ -1,0 +1,8 @@
+{
+  "name": "Remix AccessibleReader for All",
+  "description": "Compact document reader \u0026 OCR scanner with multi-granularity navigation (page, sentence, word, char, 10s audio skip).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
